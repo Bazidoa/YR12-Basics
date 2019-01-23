@@ -1,2 +1,3 @@
 elteres 
 uj sor 
++ sor 
