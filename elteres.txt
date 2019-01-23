@@ -1,6 +1,0 @@
-elteres 
-<<<<<<< HEAD
-uj sor 
-+ sor 
-=======
->>>>>>> parent of 9b11748... uj sor hozzaadasa txt hez
