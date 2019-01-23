@@ -3,3 +3,4 @@ ket sor
 4 kieg
 ez maradjon
 proba sor amit törlök
+create differentiaton
