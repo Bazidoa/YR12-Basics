@@ -4,3 +4,4 @@ ket sor
 ez maradjon
 proba sor amit törlök
 create differentiaton
+STÁTUSZNAK SOR
