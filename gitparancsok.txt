@@ -1,0 +1,11 @@
+git status
+git init
+git clone
+git add
+git fetch
+git commit
+git push 
+git pull
+git revert 
+git reset 
+git reset --hard 
