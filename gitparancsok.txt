@@ -1,4 +1,4 @@
-git status
+git status -s -b --porcelain=v2
 git init
 git clone
 git add
@@ -9,3 +9,15 @@ git pull
 git revert 
 git reset 
 git reset --hard 
+git log
+git log --follow
+git log --decorate [=short|full|auto|no]
+git log -n -skip
+git --since | --after | --until | --before
+git log --grep =[] //commit msgben
+git diff HEAD [filename]
+git grep --untracked '.*\[img'
+git grep --no-index '.*' -- '*.*'
+git branch <branch_neve>
+git ckeckout <branch_neve>
+git merge <branch_neve>  
